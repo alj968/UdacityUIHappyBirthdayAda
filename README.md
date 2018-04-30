@@ -4,3 +4,5 @@ Simple one-page app representing a greeting card to the first female programmer,
 
 *Created during Udacity's "Android Basics: User Interface" course*
 
+![Screenshot of app](https://github.com/alj968/UdacityUIHappyBirthdayAda/blob/master/ada_screenshot.png "Screenshot of app")
+
